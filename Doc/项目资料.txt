@@ -1,0 +1,19 @@
+项目资料
+
+推送相关账户
+
+个推官网：		https://www.getui.com/cn/
+android包名：	com.example.firstapp
+密码：			1234qwer/.,m
+android签名：	29:5C:AB:A4:85:7D:D8:56:F2:CD:00:7D:7F:31:C7:0A:F1:BB:AD:7F
+appId：			k8fP7TVEWsATYtc0tlrTw5
+appSecret：		yXPpmRsV1n9qy7UWCRpE81
+appKey：		nD2KmI1hlv8mohnkD5BIj6
+masterSecret：	xHjiWqfl7dAzga3lAqq5x8
+
+阿里云相关账号
+
+官网：			https://www.aliyun.com/?utm_content=se_1000301881
+AccessKeyID：	LTAIh0LJFFk8ybrt
+AccessKeySecret	YKwarWN9eVvlCCCdRX5Qjj0FqloXAB
+
